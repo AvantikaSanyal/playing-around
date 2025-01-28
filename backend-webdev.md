@@ -1,0 +1,5 @@
+- npm goes and installs express for u
+- express is a package to use for json
+- json is a data format
+- cors is like middleware that wont allow u to access certain routes thru certain ips. like why would google allow me to access their admins page?
+- middleware is like middle man that sits in between 
